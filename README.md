@@ -1,4 +1,4 @@
-burrows_wheeler_transform
+Burrows-Wheeler Transform
 =========================
 
-Go implementation of BWT
+Go implementation of BWT and Inverse BWT
